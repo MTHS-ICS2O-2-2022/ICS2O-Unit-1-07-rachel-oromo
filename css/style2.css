@@ -22,11 +22,11 @@
 }
 
 body {
-  background-color: rgb(146, 202, 146);
+  background-color: midnightblue;
 }
 
 p {
-  color: rgb(53, 229, 235);
+  color: cyan;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
   padding-top: 5pt;
